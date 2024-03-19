@@ -1,6 +1,6 @@
 # Correlation between deep learning based predicted ages from structural brain and time-of-flight cerebral angiography
 
-Correlation between deep learning based predicted ages from structural brain and time-of-flight cerebral angiography, **ICMRM&ICMRI 2020**
+Correlation between deep learning based predicted ages from structural brain and time-of-flight cerebral angiography, **ASMRM&ICMRI 2020**
 
 It is a task to estimate brain age with MRA or T1 and anaylze correlation between two estiamted ages and chronological age.
 
